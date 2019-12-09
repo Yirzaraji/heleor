@@ -1,0 +1,23 @@
+.phpheader{
+	
+	width:100%;
+	height:500px;
+	background-color:red;
+	
+}
+
+.phpfooter{
+	
+	width:100%;
+	height:500px;
+	background-color:green;
+	
+}
+
+.corps {
+	
+	background-color:purple;
+	height:400px;
+	width:100%;
+	
+}
