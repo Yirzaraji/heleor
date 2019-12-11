@@ -1,1 +1,1 @@
-<div class="phpfooter">Header</div>
+<div class="phpfooter">footer</div>
