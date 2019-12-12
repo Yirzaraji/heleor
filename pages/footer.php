@@ -1,7 +1,7 @@
 <div class="footer">
                 <div class="contact">
                         <div class="logo-foot">
-                                <img class="logo" src="images/photo contact.jpg">
+                                <img class="logo" src="images/icon_contact.png">
                         </div>
                         <div class="question">
                                 UNE QUESTION ??
