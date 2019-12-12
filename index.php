@@ -21,8 +21,7 @@
 	
 	
 	<section>
-		<div class="corps">
-		</div>
+		
 		
 	</section>
 	
