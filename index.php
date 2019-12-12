@@ -21,7 +21,63 @@
 	
 	
 	<section>
-		
+		<div class="container-fluid">
+			<div class="row" id="blockmain1">
+				<div class="col-xl-12 bg-danger">
+				</div>
+			</div>
+			  <div class="row" id="blockmain1b">
+				
+				<div class="col-xl-4 bg-primary">
+				</div>
+				<div class="col-xl-4 bg-secondary">
+				</div>
+				<div class="col-xl-4 bg-warning">
+				</div>
+			  </div>
+			
+		  <div class="row" id="blockmain2">
+			Nos radios 
+			modernisées
+			Nous avons mis au point notre propre système 
+			audio en privilégiant la qualité sonore. 
+		  </div>
+		  <div class="row" id="blockmain3">
+				<div class="col-xl-2 bg-primary">
+				</div>
+				<div class="col-xl-2 bg-secondary">
+				</div>
+				<div class="col-xl-2 bg-warning">
+				</div>
+				<div class="col-xl-2 bg-primary">
+				</div>
+				<div class="col-xl-2 bg-secondary">
+				</div>
+				<div class="col-xl-2 bg-warning">
+				</div>
+		  </div>
+		  <div class="row" id="blockmain4">
+				<div class="col-xl-6 bg-primary">
+				</div>
+				<div class="col-xl-6 bg-secondary">
+				</div>
+				
+		  </div>
+		  <div class="row" id="blockmain5">
+			<div class="col-xl-4 bg-warning">
+				</div>
+				<div class="col-xl-4 bg-primary">
+				</div>
+				<div class="col-xl-4 bg-danger">
+				</div>
+		  </div>
+		  <div class="row" id="blockmain6">
+				<div class="col-xl-6 bg-primary">
+				</div>
+				<div class="col-xl-6 bg-secondary">
+				</div>
+		  </div>
+		</div>
 		
 	</section>
 	

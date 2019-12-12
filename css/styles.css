@@ -119,12 +119,46 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#242424', end
 	
 }
 
+#blockmain1{
+	height:400px;
+	
+}
 
-.container-fluid{
+
+#blockmain2{
+	height:380px;
+	background-color:#1c1c1a;
+	justify-content:center;
+	
+}
+
+#blockmain3{
 	height:700px;
+	background-color:white;
+	padding-top:90px;
+	padding-bottom:90px;
+}
+
+#blockmain4{
+	height:980px;
 	background-color:grey;
 	
 }
+
+#blockmain5{
+	height:700px;
+	background-color:#1c1c1a;
+	
+}
+
+#blockmain6{
+	height:980px;
+	background-color:white;
+	
+}
+
+
+
 
 #row01{
 
