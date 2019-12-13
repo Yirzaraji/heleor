@@ -14,14 +14,14 @@
 	</div>
 
 	<div class="menublock2">
-	<span>concept</span> <span>blog</span> <span>contact</span>
+	<span><a href="pages/concept.php">concept</a></span> <span>blog</span> <span>contact</span>
 	</div>
 	<div class="menureseau">
 	<img src="./images/fb.png"><img src="./images/ig.png">
 	</div>
 </nav>
 
-<div class="container-fluid">
+<div class="container-fluid" id="bandeauheader">
 	<div class="row" id="row01">
 		<div class="col-xl-5">
 		

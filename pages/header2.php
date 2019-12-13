@@ -4,7 +4,7 @@
 	</div>
 
 	<div class="menulogo">
-	<img src="../images/logo.png">
+	<a href="../index.php"><img src="../images/logo.png"></a>
 	</div>
 
 	<div class="menublock2">
