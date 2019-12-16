@@ -36,25 +36,25 @@
 					<img src="images/bluetooth2.png">
 					<p>FONCTION</p>
 					<p></p>
-					<p>- Bluetooth</p>
+					<p>- Bluetooth, Telecommande</p>
 					<p>- Mini Jack Lecture MP3 via USB</p>
 					<p>- Radio FM Réglage Graves Aigus</p>
-					<p>- Telecommande</p>
+					<p>-</p>
 					<p><a href="pages/concept.php">En savoir plus</a></p>
 				</div>
 				<div class="col-xl-4">
 				<img src="images/poste2.png">
-					<p>FONCTION</p>
+					<p>LE POSTE</p>
 					<p></p>
 					<p>- Un son d’excellente qualité</p>
 					<p>- Fabriqué en France</p>
-					<p>- Artisanale unique </p>
+					<p>- Artisanale, modèle unique </p>
 					<p>- Garantie 2 ans</p>
 					<p><a href="pages/concept.php">En savoir plus</a></p>
 				</div>
 				<div class="col-xl-4">
 				<img src="images/arbreicon.png">
-					<p>FONCTION</p>
+					<p>ENVIRONNEMENT</p>
 					<p></p>
 					<p>- Traitement, nettoyage et rénovation</p>
 					<p>écoresponsables</p>
@@ -75,35 +75,51 @@
 			</div>		
 		  </div>
 		  <div class="row" id="blockmain3">
-				<div class="col-xl-2">
-				<img src="images/poste2.png">
-				<p>Radio vintage "Sonneclair</p>
-				<p>890,00 €</p>
+				<div class="col-xl-1">
+				
 				</div>
 				<div class="col-xl-2">
-				<img src="images/poste2.png">
-				<p>Radio vintage "Ducretet-Thomson 58CF</p>
-				<p>1090,00 €</p>
+					<div class="carouhover">
+						<a href="https://www.heleor.fr/postes-radio-bluetooth">
+						<img src="images/sonneclair.png">
+						<p>Radio vintage "Sonneclair"</p>
+						<p>890,00 €</p></a>
+					</div>
 				</div>
 				<div class="col-xl-2">
-				<img src="images/poste2.png">
-				<p>Radio vintage "SABA 630 WL</p>
-				<p>1390,00 €</p>
+					<div class="carouhover">
+						<a href="https://www.heleor.fr/postes-radio-bluetooth">
+						<img src="images/Ducretet.jpg">
+						<p>Radio vintage "Ducretet-Thomson 58CF"</p>
+						<p>1090,00 €</p></a>
+					</div>
 				</div>
 				<div class="col-xl-2">
-				<img src="images/poste2.png">
-				<p>Radio vintage "ORA L636"</p>
-				<p>1290,00 €</p>
+					<div class="carouhover">
+						<a href="https://www.heleor.fr/postes-radio-bluetooth">
+						<img src="images/Saba.jpg">
+						<p>Radio vintage "SABA 630 WL</p>
+						<p>1390,00 €</p></a>
+					</div>
 				</div>
 				<div class="col-xl-2">
-				<img src="images/poste2.png">
-				<p>Radio vintage - Superadio L'As</p>
-				<p>RUPTURE DE STOCK</p>
+					<div class="carouhover">
+						<a href="https://www.heleor.fr/postes-radio-bluetooth">
+						<img src="images/ora.png">
+						<p>Radio vintage "ORA L636"</p>
+						<p>1290,00 €</p></a>
+					</div>
 				</div>
 				<div class="col-xl-2">
-				<img src="images/poste2.png">
-				<p>Radio vintage - Ducastel</p>
-				<p>890,00 €</p>
+					<div class="carouhover">
+						<a href="https://www.heleor.fr/postes-radio-bluetooth">
+						<img src="images/Sonora201.jpg">
+						<p>Radio vintage - Sonora 201</p>
+						<p>890,00 €</p></a>
+					</div>
+				</div>
+				<div class="col-xl-1">
+				
 				</div>
 		  </div>
 		<div class="row" id="blockmain4">
