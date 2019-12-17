@@ -40,6 +40,7 @@
 					<p>- Mini Jack Lecture MP3 via USB</p>
 					<p>- Radio FM Réglage Graves Aigus</p>
 					<p>-</p>
+					
 					<p><a href="pages/concept.php">En savoir plus</a></p>
 				</div>
 				<div class="col-xl-4">
@@ -50,6 +51,7 @@
 					<p>- Fabriqué en France</p>
 					<p>- Artisanale, modèle unique </p>
 					<p>- Garantie 2 ans</p>
+					
 					<p><a href="pages/concept.php">En savoir plus</a></p>
 				</div>
 				<div class="col-xl-4">
@@ -60,6 +62,7 @@
 					<p>écoresponsables</p>
 					<p>- Emballages recyclables</p>
 					<p>-</p>
+					
 					<p><a href="pages/concept.php">En savoir plus</a></p>
 				</div>
 			  </div>
