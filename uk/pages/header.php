@@ -1,18 +1,18 @@
 
 <nav>
 	<div class="change_enfr">
-	<a href="index.php"><img src="./images/drapeaufr.png"></a>
+	<a href="../index.php"><img src="./images/drapeaufr.png"></a>
 	FR&nbsp;&nbsp;&nbsp;
-	<a href="uk/index.php"><img src="./images/drapeauen.png"></a>
+	<a href="uk.php"><img src="./images/drapeauen.png"></a>
 	EN
 	</div>
 	
 	<div class="menublock1">
-	<span><a href="index.php">accueil</a></span> <span><a href="https://www.heleor.fr/postes-radio-bluetooth">boutique</a></span> <span>renovation</span> 
+	<span><a href="index.php">accueil</a></span> <span><a href="https://www.heleor.fr/postes-radio-bluetooth">shop</a></span> <span>renovation</span> 
 	</div>
 
 	<div class="menulogo">
-	<a href="index.php"><img src="./images/logo.png"></a>
+	<a href="../index.php"><img src="./images/logo.png"></a>
 	</div>
 
 	<div class="menublock2">
