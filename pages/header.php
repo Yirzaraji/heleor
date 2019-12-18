@@ -8,7 +8,8 @@
 	</div>
 	
 	<div class="menublock1">
-	<span><a href="index.php">accueil</a></span> <span><a href="https://www.heleor.fr/postes-radio-bluetooth">boutique</a></span> <span>renovation</span> 
+	<span><a href="index.php">accueil</a></span> <span><a href="https://www.heleor.fr/postes-radio-bluetooth">boutique</a></span>
+	<span><a href="pages/renovation.php">renovation</a></span> 
 	</div>
 
 	<div class="menulogo">
@@ -28,7 +29,7 @@
 
 <div class="container-fluid" id="bandeauheader">
 	<div class="row" id="row01">
-		<div class="col-xl-5" id="bandeauheader02">
+		<div class="col-xl-5 col-md-5" id="bandeauheader02">
 		
 		<p>heleor</p>
 		<p></p>
@@ -36,7 +37,7 @@
 		en enceinte bluetooth</p>
 		<p><a href="https://www.heleor.fr/postes-radio-bluetooth">notre boutique</a></p>
 		</div>
-		<div class="col-xl-7" id="bandeauheader03">
+		<div class="col-xl-7 col-md-7 d-sm-none d-md-block" id="bandeauheader03">
 		 <img src="./images/radiovintagehead.png">
 		</div>
 	
