@@ -22,10 +22,10 @@
         </div>
         <div class="footer2">
                 <div class="footleft">
-                        <div>Blog</div>
-                        <div>Media</div>
-                        <div>Boutique</div>
-                        <div>Concept</div>
+                        <div><a href="https://www.heleor.fr/blog">Blog</a></div>
+                        <div><a href="https://www.heleor.fr/media">Media</a></div>
+                        <div><a href="https://www.heleor.fr/postes-radio-bluetooth">Boutique</a></div>
+                        <div><a href="concept.php">Concept</a></div>
 
                 </div>
 
@@ -50,15 +50,16 @@
                 </div>
 
                 <div class="footright">
-                        <div>Rénovation</div>
-                        <div>Remerciements</div>
-                        <div>Réseaux Sociaux</div>
-                        <div>Accueil</div>
+                        <div><a href="renovation.php">Rénovation</a></div>
+                        <div><a href="remerciements.php">Remerciements</a></div>
+                        <div><a href="http://facebook.com">Réseaux Sociaux</a></div>
+                        <div><a href="../index.php">Accueil</a></div>
                 </div>
 
         </div>
         <div class="linebot">      
         </div>
         <div class="botbot">
-                © 2019 Heleor - contact@heleor.fr - Nos conditions générales de vente - Contact
+                © 2019 Heleor - contact@heleor.fr - <a href="cgv.php">
+				Nos conditions générales de vente</a> - <a href="contact.php">Contact</a>
         </div>
