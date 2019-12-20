@@ -88,7 +88,7 @@
 </div>
 
 <footer>
-		<?php include('footer2.php');?>
+		<?php include('footer3.php');?>
 	
 </footer>
 

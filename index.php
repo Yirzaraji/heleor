@@ -25,8 +25,8 @@
 			<div class="row" id="blockmain1">
 				<div class="col-xl-12">
 					
-					<p>Les Avantages De nos</p>
-					<p>radios vintage moderninées</p>
+					<h2 class="homeh2"><p>Les Avantages De nos</p>
+					<p>radios vintage moderninées</p></h2>
 					<p></p>
 				</div>
 			</div>
@@ -78,52 +78,59 @@
 			</div>		
 		  </div>
 		  <div class="row" id="blockmain3">
-				<div class="col-xl-1 col-md-1">
+		  <div class="caroucenter">
+  
+  <div class="radio">
+  <a href="https://www.heleor.fr/postes-radio-bluetooth">
+    <div class="boxradio"><img class="picradio" src="images/sonneclair.png"></div>
+    <div class="boxtxt">
+      <div>Radio Vingate "Sonneclair"</div></a>
+      <div>890€</div>
+      
+    </div>
+    
+  </div>
+  
+  <div class="radio">
+  <a href="https://www.heleor.fr/postes-radio-bluetooth">
+    <div class="boxradio"><img class="picradio" src="images/Ducretet.jpg"></div>
+    <div class="boxtxt">
+      <div>Radio Vintage "Ducretet-Thompson 58CF"</div>
+      <div>1090€</div></div></a>
+    </div>
+  
+  <div class="radio">
+  <a href="https://www.heleor.fr/postes-radio-bluetooth">
+    <div class="boxradio"><img class="picradio" src="images/Saba.jpg"></div>
+    <div class="boxtxt">
+      <div>Radio Vintage "Saba 630WL"</div>
+      <div>1390€</div></div></a>
+    
+  </div>
+  
+  <div class="radio">
+  <a href="https://www.heleor.fr/postes-radio-bluetooth">
+    <div class="boxradio"><img class="picradio" src="images/ora.png"></div>
+    <div class="boxtxt">
+      <div>RADIO VINTAGE "ORA L636"</div>
+      <div>1290€</div></div></a>
+    
+
+    </div>
+  <div class="radio">
+  <a href="https://www.heleor.fr/postes-radio-bluetooth">
+    <div class="boxradio"><img class="picradio" src="images/Sonora201.jpg"></div>
+    <div class="boxtxt">
+      <div>RADIO VINTAGE SONORA</div>
+      <div>890€</div></div></a>
+    
+
+    </div>
+</div>
+		 
+  
+		</div>
 				
-				</div>
-				<div class="col-xl-2 col-md-2">
-					<div class="carouhover">
-						<a href="https://www.heleor.fr/postes-radio-bluetooth">
-						<img src="images/sonneclair.png">
-						<p>Radio vintage "Sonneclair"</p>
-						<p>890,00 €</p></a>
-					</div>
-				</div>
-				<div class="col-xl-2 col-md-2">
-					<div class="carouhover">
-						<a href="https://www.heleor.fr/postes-radio-bluetooth">
-						<img src="images/Ducretet.jpg">
-						<p>Radio vintage "Ducretet-Thomson 58CF"</p>
-						<p>1090,00 €</p></a>
-					</div>
-				</div>
-				<div class="col-xl-2 col-md-2">
-					<div class="carouhover">
-						<a href="https://www.heleor.fr/postes-radio-bluetooth">
-						<img src="images/Saba.jpg">
-						<p>Radio vintage "SABA 630 WL</p>
-						<p>1390,00 €</p></a>
-					</div>
-				</div>
-				<div class="col-xl-2 col-md-2">
-					<div class="carouhover">
-						<a href="https://www.heleor.fr/postes-radio-bluetooth">
-						<img src="images/ora.png">
-						<p>Radio vintage "ORA L636"</p>
-						<p>1290,00 €</p></a>
-					</div>
-				</div>
-				<div class="col-xl-2 col-md-2">
-					<div class="carouhover">
-						<a href="https://www.heleor.fr/postes-radio-bluetooth">
-						<img src="images/Sonora201.jpg">
-						<p>Radio vintage - Sonora 201</p>
-						<p>890,00 €</p></a>
-					</div>
-				</div>
-				<div class="col-xl-1 col-md-1">
-				
-				</div>
 		  </div>
 		<div class="row" id="blockmain4">
 				<div class="col-xl-6 col-md-6 col-lg-6">
@@ -165,9 +172,9 @@
 						<div class="col-xl-3 col-lg-1"></div>
 					</div>
 				</div>
-				<div class="col-xl-6 col-md-6 col-lg-6" id="degagemargin">
+				<div class="col-xl-6 col-md-6 col-lg-6" id="degagemargin01">
 			
-				<img src="images/duo.png"><img src="images/saba02.png" class="trickymoment">
+				<div class="responsive_img_01"></div>
 				</div>
 				
 		</div>
@@ -218,9 +225,9 @@
 			
 		 </div>
 			<div class="row" id="blockmain6">
-				<div class="col-xl-6 col-md-6">
+				<div class="col-xl-6 col-md-6" id="degagemargin05">
 			
-				<img src="images/sarah.png"> <img src="images/heleor02.png" class="trickymoment">
+				<div class="responsive_img_02"></div>
 				</div>
 				<div class="col-xl-6 col-md-6">
 					<div class="row" id="containhistoire">
