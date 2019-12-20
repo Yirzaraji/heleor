@@ -1106,7 +1106,9 @@ height:200px;
 #vint {
     font-family: lobster;
     margin: auto;
-    color: rgba(236, 211, 114, 1) !important;
+    background: linear-gradient(90deg, rgba(238,222,124,1) 0%, rgba(216,149,45,1) 100%);
+   -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
 }
 
 /* mon bloc 1 */
@@ -1279,7 +1281,9 @@ height:200px;
 .atl {
     align-self: center;
     font-family: lobster;
-    color: rgba(236, 212, 114, 1);
+    background: linear-gradient(90deg, rgba(238,222,124,1) 0%, rgba(216,149,45,1) 100%);
+   -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
     font-size: 2.9em;
 }
 
@@ -1314,7 +1318,9 @@ height:200px;
 .num1 {
     font-family: lobster;
     font-size: 6.5em;
-    color: #ECD472;
+    background: linear-gradient(90deg, rgba(238,222,124,1) 0%, rgba(216,149,45,1) 100%);
+   -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
     width: auto;
     text-shadow: -1px -1px 1px rgba(255, 255, 255, .1), 1px 1px 1px rgba(0, 0, 0, .5);
 }
@@ -1328,7 +1334,9 @@ height:200px;
 .recep2 {
     font-family: lobster;
     font-size: 3.5em;
-    color: #ECD472;
+    background: linear-gradient(90deg, rgba(238,222,124,1) 0%, rgba(216,149,45,1) 100%);
+   -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
     width: auto;
     text-shadow: -1px -1px 1px rgba(255, 255, 255, .1), 1px 1px 1px rgba(0, 0, 0, .5);
 }
@@ -1363,7 +1371,9 @@ height:200px;
 .num2 {
     font-family: lobster;
     font-size: 6.5em;
-    color: #ECD472;
+    background: linear-gradient(90deg, rgba(238,222,124,1) 0%, rgba(216,149,45,1) 100%);
+   -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
     width: auto;
     text-shadow: -1px -1px 1px rgba(255, 255, 255, .1), 1px 1px 1px rgba(0, 0, 0, .5);
     order: 4;
@@ -1379,7 +1389,9 @@ height:200px;
 .demo2 {
     font-family: lobster;
     font-size: 3.5em;
-    color: #ECD472;
+    background: linear-gradient(90deg, rgba(238,222,124,1) 0%, rgba(216,149,45,1) 100%);
+   -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
     width: auto;
     text-shadow: -1px -1px 1px rgba(255, 255, 255, .1), 1px 1px 1px rgba(0, 0, 0, .5);
     order: 2;
@@ -1412,7 +1424,9 @@ height:200px;
 .num3 {
     font-family: lobster;
     font-size: 6.5em;
-    color: #ECD472;
+    background: linear-gradient(90deg, rgba(238,222,124,1) 0%, rgba(216,149,45,1) 100%);
+   -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
     width: auto;
     text-shadow: -1px -1px 1px rgba(255, 255, 255, .1), 1px 1px 1px rgba(0, 0, 0, .5);
 }
@@ -1426,7 +1440,9 @@ height:200px;
 .netto2 {
     font-family: lobster;
     font-size: 3.5em;
-    color: #ECD472;
+    background: linear-gradient(90deg, rgba(238,222,124,1) 0%, rgba(216,149,45,1) 100%);
+   -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
     width: auto;
     text-shadow: -1px -1px 1px rgba(255, 255, 255, .1), 1px 1px 1px rgba(0, 0, 0, .5);
 }
@@ -1461,7 +1477,9 @@ height:200px;
 .num4 {
     font-family: lobster;
     font-size: 6.5em;
-    color: #ECD472;
+    background: linear-gradient(90deg, rgba(238,222,124,1) 0%, rgba(216,149,45,1) 100%);
+   -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
     width: auto;
     text-shadow: -1px -1px 1px rgba(255, 255, 255, .1), 1px 1px 1px rgba(0, 0, 0, .5);
     order: 4;
@@ -1477,7 +1495,9 @@ height:200px;
 .renov2 {
     font-family: lobster;
     font-size: 3.5em;
-    color: #ECD472;
+    background: linear-gradient(90deg, rgba(238,222,124,1) 0%, rgba(216,149,45,1) 100%);
+   -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
     width: auto;
     text-shadow: -1px -1px 1px rgba(255, 255, 255, .1), 1px 1px 1px rgba(0, 0, 0, .5);
     order: 2;
@@ -1510,7 +1530,9 @@ height:200px;
 .num5 {
     font-family: lobster;
     font-size: 6.5em;
-    color: #ECD472;
+    background: linear-gradient(90deg, rgba(238,222,124,1) 0%, rgba(216,149,45,1) 100%);
+   -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
     width: auto;
     text-shadow: -1px -1px 1px rgba(255, 255, 255, .1), 1px 1px 1px rgba(0, 0, 0, .5);
 }
@@ -1524,7 +1546,9 @@ height:200px;
 .elec2 {
     font-family: lobster;
     font-size: 3.5em;
-    color: #ECD472;
+    background: linear-gradient(90deg, rgba(238,222,124,1) 0%, rgba(216,149,45,1) 100%);
+   -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
     width: auto;
     text-shadow: -1px -1px 1px rgba(255, 255, 255, .1), 1px 1px 1px rgba(0, 0, 0, .5);
 }
@@ -1559,7 +1583,9 @@ height:200px;
 .num6 {
     font-family: lobster;
     font-size: 6.5em;
-    color: #ECD472;
+    background: linear-gradient(90deg, rgba(238,222,124,1) 0%, rgba(216,149,45,1) 100%);
+   -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
     width: auto;
     text-shadow: -1px -1px 1px rgba(255, 255, 255, .1), 1px 1px 1px rgba(0, 0, 0, .5);
     order: 4;
@@ -1575,7 +1601,9 @@ height:200px;
 .pret2 {
     font-family: lobster;
     font-size: 3.5em;
-    color: #ECD472;
+    background: linear-gradient(90deg, rgba(238,222,124,1) 0%, rgba(216,149,45,1) 100%);
+   -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
     width: auto;
     text-shadow: -1px -1px 1px rgba(255, 255, 255, .1), 1px 1px 1px rgba(0, 0, 0, .5);
     order: 2;
