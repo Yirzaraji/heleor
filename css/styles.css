@@ -1869,7 +1869,7 @@ background: white;
 
 
 .titlerenotop {
-    margin-top: 5%;
+    padding-top: 5%;
     color: white;
     font-family: Oswald;
     background-color: #1c1c1a;
@@ -1938,6 +1938,7 @@ background: white;
     flex-direction: column;
     justify-self: center;
     align-self: center;
+	color:black;
 }
 
 .boisbot {
