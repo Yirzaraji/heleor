@@ -205,15 +205,6 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#242424', end
 	text-align:center;
 	line-height:32px;
 }
-.homeh2{
-font-size:1.2em;
-line-height:40px;
-}
-
-.h1head{
-font-size:1em;
-margin-top:20px;
-}
 
 #blockmain1 p{
 	margin:0 auto;
@@ -860,7 +851,6 @@ font-size:1.5em;
 	
 	font-weight:500;
 	letter-spacing:1px;
-
 	
 
 
@@ -935,14 +925,13 @@ width:85%;
 
 #formstyle01 img{
 	width:60px;
-    margin-bottom:20px;
+	margin-bottom:20px;
 	
 }
 
 form {
     font-family: Oswald;
     width: 100%;
-   
 }
 
 #imgradiocon {
@@ -956,7 +945,6 @@ form {
     justify-content: center;
     align-content: center;
     padding-bottom: 5%;
-  
 }
 
 .centercontself {
@@ -974,7 +962,6 @@ form {
     border-left: 1.5px grey dotted;
     padding: 5px;
     border-top: none;
-    
 }
 
 .iconuser { 
@@ -1008,9 +995,6 @@ form {
     padding-left: 10%;
 }
 
-.margincon {
-    margin-right: 7%;
-}
 
 .barcontact {
     display: flex;
@@ -1018,7 +1002,7 @@ form {
     background-color: white;
     height: 5px;
     border-radius: 10px;
-    width: 50px;
+    width: 7%;
     margin-top: 1%;
     margin-bottom: 2%;
 }
@@ -1027,16 +1011,15 @@ form {
     font-family: Oswald;
     font-size: 45px;
     text-align: center;
-    
 }
+
+
 
 #colorform1{
     height: 80%;
     display: flex;
-
     flex-direction: column;
-    background-color:#1c1c1a;
-    
+	background-color:#1c1c1a;
 }
 
 .col-xl-7{
@@ -1079,11 +1062,11 @@ height:200px;
 	padding-top:80px;
 	color:black;
 }
-#cgvcorps {
-    color: 
-    black;
-    height: 100%;
-    padding-bottom: 40px;
+#cgvcorps{
+	color:black;
+	height: 3440px;
+	
+	
 }
 
 
@@ -1123,7 +1106,9 @@ height:200px;
 #vint {
     font-family: lobster;
     margin: auto;
-    color: rgba(236, 211, 114, 1) !important;
+    background: linear-gradient(90deg, rgba(238,222,124,1) 0%, rgba(216,149,45,1) 100%);
+   -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
 }
 
 /* mon bloc 1 */
@@ -1296,7 +1281,9 @@ height:200px;
 .atl {
     align-self: center;
     font-family: lobster;
-    color: rgba(236, 212, 114, 1);
+    background: linear-gradient(90deg, rgba(238,222,124,1) 0%, rgba(216,149,45,1) 100%);
+   -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
     font-size: 2.9em;
 }
 
@@ -1331,7 +1318,9 @@ height:200px;
 .num1 {
     font-family: lobster;
     font-size: 6.5em;
-    color: #ECD472;
+    background: linear-gradient(90deg, rgba(238,222,124,1) 0%, rgba(216,149,45,1) 100%);
+   -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
     width: auto;
     text-shadow: -1px -1px 1px rgba(255, 255, 255, .1), 1px 1px 1px rgba(0, 0, 0, .5);
 }
@@ -1345,7 +1334,9 @@ height:200px;
 .recep2 {
     font-family: lobster;
     font-size: 3.5em;
-    color: #ECD472;
+    background: linear-gradient(90deg, rgba(238,222,124,1) 0%, rgba(216,149,45,1) 100%);
+   -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
     width: auto;
     text-shadow: -1px -1px 1px rgba(255, 255, 255, .1), 1px 1px 1px rgba(0, 0, 0, .5);
 }
@@ -1380,7 +1371,9 @@ height:200px;
 .num2 {
     font-family: lobster;
     font-size: 6.5em;
-    color: #ECD472;
+    background: linear-gradient(90deg, rgba(238,222,124,1) 0%, rgba(216,149,45,1) 100%);
+   -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
     width: auto;
     text-shadow: -1px -1px 1px rgba(255, 255, 255, .1), 1px 1px 1px rgba(0, 0, 0, .5);
     order: 4;
@@ -1396,7 +1389,9 @@ height:200px;
 .demo2 {
     font-family: lobster;
     font-size: 3.5em;
-    color: #ECD472;
+    background: linear-gradient(90deg, rgba(238,222,124,1) 0%, rgba(216,149,45,1) 100%);
+   -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
     width: auto;
     text-shadow: -1px -1px 1px rgba(255, 255, 255, .1), 1px 1px 1px rgba(0, 0, 0, .5);
     order: 2;
@@ -1429,7 +1424,9 @@ height:200px;
 .num3 {
     font-family: lobster;
     font-size: 6.5em;
-    color: #ECD472;
+    background: linear-gradient(90deg, rgba(238,222,124,1) 0%, rgba(216,149,45,1) 100%);
+   -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
     width: auto;
     text-shadow: -1px -1px 1px rgba(255, 255, 255, .1), 1px 1px 1px rgba(0, 0, 0, .5);
 }
@@ -1443,7 +1440,9 @@ height:200px;
 .netto2 {
     font-family: lobster;
     font-size: 3.5em;
-    color: #ECD472;
+    background: linear-gradient(90deg, rgba(238,222,124,1) 0%, rgba(216,149,45,1) 100%);
+   -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
     width: auto;
     text-shadow: -1px -1px 1px rgba(255, 255, 255, .1), 1px 1px 1px rgba(0, 0, 0, .5);
 }
@@ -1478,7 +1477,9 @@ height:200px;
 .num4 {
     font-family: lobster;
     font-size: 6.5em;
-    color: #ECD472;
+    background: linear-gradient(90deg, rgba(238,222,124,1) 0%, rgba(216,149,45,1) 100%);
+   -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
     width: auto;
     text-shadow: -1px -1px 1px rgba(255, 255, 255, .1), 1px 1px 1px rgba(0, 0, 0, .5);
     order: 4;
@@ -1494,7 +1495,9 @@ height:200px;
 .renov2 {
     font-family: lobster;
     font-size: 3.5em;
-    color: #ECD472;
+    background: linear-gradient(90deg, rgba(238,222,124,1) 0%, rgba(216,149,45,1) 100%);
+   -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
     width: auto;
     text-shadow: -1px -1px 1px rgba(255, 255, 255, .1), 1px 1px 1px rgba(0, 0, 0, .5);
     order: 2;
@@ -1527,7 +1530,9 @@ height:200px;
 .num5 {
     font-family: lobster;
     font-size: 6.5em;
-    color: #ECD472;
+    background: linear-gradient(90deg, rgba(238,222,124,1) 0%, rgba(216,149,45,1) 100%);
+   -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
     width: auto;
     text-shadow: -1px -1px 1px rgba(255, 255, 255, .1), 1px 1px 1px rgba(0, 0, 0, .5);
 }
@@ -1541,7 +1546,9 @@ height:200px;
 .elec2 {
     font-family: lobster;
     font-size: 3.5em;
-    color: #ECD472;
+    background: linear-gradient(90deg, rgba(238,222,124,1) 0%, rgba(216,149,45,1) 100%);
+   -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
     width: auto;
     text-shadow: -1px -1px 1px rgba(255, 255, 255, .1), 1px 1px 1px rgba(0, 0, 0, .5);
 }
@@ -1576,7 +1583,9 @@ height:200px;
 .num6 {
     font-family: lobster;
     font-size: 6.5em;
-    color: #ECD472;
+    background: linear-gradient(90deg, rgba(238,222,124,1) 0%, rgba(216,149,45,1) 100%);
+   -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
     width: auto;
     text-shadow: -1px -1px 1px rgba(255, 255, 255, .1), 1px 1px 1px rgba(0, 0, 0, .5);
     order: 4;
@@ -1592,7 +1601,9 @@ height:200px;
 .pret2 {
     font-family: lobster;
     font-size: 3.5em;
-    color: #ECD472;
+    background: linear-gradient(90deg, rgba(238,222,124,1) 0%, rgba(216,149,45,1) 100%);
+   -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
     width: auto;
     text-shadow: -1px -1px 1px rgba(255, 255, 255, .1), 1px 1px 1px rgba(0, 0, 0, .5);
     order: 2;
@@ -1613,7 +1624,7 @@ height:200px;
 /* ===========FIN PAGE CONCEPT====== */
 
 
-/* ==============PAGE RENOVATION=========== */
+/* ==============PAGE RENOCATION=========== */
 .backblack {
     background-color: #1c1c1a;
 }
@@ -1648,8 +1659,6 @@ ul {
     height: 100%;
     width: 40%;
     margin-bottom: 5%;
-    
-
 }
 
 
@@ -1725,7 +1734,6 @@ background: white;
 
 .carousel-inner {
     background-color: white;
-    background-color: #1c1c1a;
 }
 
 .imgcarou {
@@ -1734,7 +1742,6 @@ background: white;
 }
 
 .caroubot {
-    background-color: #1c1c1a;
     display:flex;
     align-self: center;
     
@@ -1762,8 +1769,7 @@ background: white;
 
 
 .titlerenotop {
-    padding-top: 5%;
-    background-color: #1c1c1a;
+    margin-top: 5%;
     color: white;
     font-family: Oswald;
     background-color: #1c1c1a;
@@ -1777,11 +1783,11 @@ background: white;
     padding-top: 1%;
     font-family: Oswald;
     color: white;
-    background-color: #1c1c1a;
 }
 
 
 .caisse {
+    
     color: black;
     display:flex;
     flex-direction: row;
@@ -3334,6 +3340,8 @@ font-size: 1.7em;
     margin-left: 4px;
 }
 
+margin-left: 1px;
+
 .menulogo{
    display:none;
 }
@@ -3828,6 +3836,7 @@ font-size: 1em;}
     margin-left: 1px;
 }
 
+margin-left: 1px;
 
 .menulogo{
    display:none;
@@ -4034,6 +4043,10 @@ padding-left: 0px;
 
 }
 
+.logo {
+
+    width: 25%;
+}
 
 .footleft {
     font-family: Oswald;
@@ -4083,4 +4096,6 @@ font-size: 0.7em;
 .mercitaille{
 	
 	font-size:0.9em;
+}
+
 }

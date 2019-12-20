@@ -25,8 +25,8 @@
 			<div class="row" id="blockmain1">
 				<div class="col-xl-12">
 					
-					<h2 class="homeh2"><p>Les Avantages De nos</p>
-					<p>radios vintage moderninées</p></h2>
+					<p>Les Avantages De nos</p>
+					<p>radios vintage moderninées</p>
 					<p></p>
 				</div>
 			</div>

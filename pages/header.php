@@ -59,7 +59,7 @@
 	<div class="row" id="row01">
 		<div class="col-xl-5 col-md-5" id="bandeauheader02">
 		
-		<h1 class="h1head"><p>heleor</p></h1>
+		<p>heleor</p>
 		<p></p>
 		<p>Transforme votre radio familiale</br> 
 		en enceinte bluetooth</p>

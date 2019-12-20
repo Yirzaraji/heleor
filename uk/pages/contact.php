@@ -8,7 +8,6 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 	<link rel="stylesheet" href="../css/styles.css">
-	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 	<link href="https://fonts.googleapis.com/css?family=Lobster&display=swap" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Lobster|Oswald:200,300,400,500,600,700&display=swap" rel="stylesheet"> 
     <title>Heleor radio vintage</title>
@@ -34,7 +33,7 @@
 			<img src="../images/icon_form1.png">
 			<p>EMAIL</p>
 			<p></p>
-			<p>Sarah@heleor.fr </p>
+			<p>Sarah@heleor.fr</p>
 		
 
 		</div>
@@ -56,32 +55,30 @@
 
 	<div class="row" id="formstyle02">
 		<div class="col-xl-7">
-		<img id="imgradiocon" src="../images/contactimg.png">
+		<img src="../images/contactimg.png">
 
 
 		</div>
 		
 		<div class="col-xl-5" id="colorform1">
-		<p id="textcontact">Contactez-nous </p>
-		<div class="barcontact"></div>
-		<div class="centercont">
-		 <form class="centercont" id="contact" method="post" action="traitement_formulaire.php">
-    	
-    		<p class="centercontself"><img src="../images/iconeuser.png" class="iconuser" id="mailcon"><label for="nom"></label><input  type="text" class="formcon" id="nom" name="nom"  placeholder="Nom"  /></p>
-    		<p class="centercontself"><img src="../images/iconemail.png" class="iconuser" id="mailcon"><label for="email"></label><input type="text" class="formcon" id="email"  name="email" placeholder="Email" /></p>
+		<p>NOUS CONTACTER</p>
+		<p>-</p>
+		
+		 <form id="contact" method="post" action="traitement_formulaire.php">
+    	<fieldset><legend>Vos coordonnées</legend>
+    		<p><label for="nom">Nom :</label><input type="text" id="nom" name="nom" /></p>
+    		<p><label for="email">Email :</label><input type="text" id="email" name="email" /></p>
     	</fieldset>
      
-		
-		<div class="centercont">
-    		<p class="centercontself"><img src="../images/iconeobjet.png" class="iconuser" id="objetcon"><label for="objet"></label><input type="text" class="formcon" id="objet" name="objet" placeholder="Objet" /></p>
-    		<p class="centercontself"><img src="../images/iconestylo.png" class="iconuser" id="stylocon"><label for="message"></label><textarea type="text" class="formcon" id="message"  name="message" " cols="30" rows="8" placeholder="Ecrivez votre message"></textarea></p>
-</div>
-		</fieldset>
+    	<fieldset><legend>Votre message :</legend>
+    		<p><label for="objet">Objet :</label><input type="text" id="objet" name="objet" /></p>
+    		<p><label for="message">Message :</label><textarea id="message" name="message" cols="30" rows="8"></textarea></p>
+    	</fieldset>
      
-    	<div style="text-align:center;" class="centercontself"><input type="submit" name="envoi" value="Envoyer" class="boutoncon" /></div>
+    	<div style="text-align:center;"><input type="submit" name="envoi" value="Envoyer le formulaire !" /></div>
 		</form>
 		
-</div>
+
 		</div>
 	</div>
 

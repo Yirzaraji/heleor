@@ -50,8 +50,8 @@
                 </div>
 
                 <div class="footright">
-                        <div><a href="pages/renovation.php">Rénovation</a></div>
-                        <div class="mercitaille"><a href="pages/remerciements.php">Remerciements</a></div>
+                        <div>Rénovation</div>
+                        <div><a href="pages/remerciements.php">Remerciements</a></div>
                         <div><a href="http://facebook.com">Réseaux Sociaux</a></div>
                         <div><a href="index.php">Accueil</div>
                 </div>

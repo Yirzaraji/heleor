@@ -67,13 +67,13 @@
 		<div class="centercont">
 		 <form class="centercont" id="contact" method="post" action="traitement_formulaire.php">
     	
-    		<p class="centercontself margincon"><img src="../images/iconeuser.png" class="iconuser" id="mailcon"><label for="nom"></label><input  type="text" class="formcon" id="nom" name="nom"  placeholder="Nom"  /></p>
-    		<p class="centercontself margincon"><img src="../images/iconemail.png" class="iconuser" id="mailcon"><label for="email"></label><input type="text" class="formcon" id="email"  name="email" placeholder="Email" /></p>
+    		<p class="centercontself"><img src="../images/iconeuser.png" class="iconuser" id="mailcon"><label for="nom"></label><input  type="text" class="formcon" id="nom" name="nom"  placeholder="Nom"  /></p>
+    		<p class="centercontself"><img src="../images/iconemail.png" class="iconuser" id="mailcon"><label for="email"></label><input type="text" class="formcon" id="email"  name="email" placeholder="Email" /></p>
     	</fieldset>
      
 		
 		<div class="centercont">
-    		<p class="centercontself margincon"><img src="../images/iconeobjet.png" class="iconuser" id="objetcon"><label for="objet"></label><input type="text" class="formcon" id="objet" name="objet" placeholder="Objet" /></p>
+    		<p class="centercontself"><img src="../images/iconeobjet.png" class="iconuser" id="objetcon"><label for="objet"></label><input type="text" class="formcon" id="objet" name="objet" placeholder="Objet" /></p>
     		<p class="centercontself"><img src="../images/iconestylo.png" class="iconuser" id="stylocon"><label for="message"></label><textarea type="text" class="formcon" id="message"  name="message" " cols="30" rows="8" placeholder="Ecrivez votre message"></textarea></p>
 </div>
 		</fieldset>
