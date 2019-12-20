@@ -205,6 +205,15 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#242424', end
 	text-align:center;
 	line-height:32px;
 }
+.homeh2{
+font-size:1.2em;
+line-height:40px;
+}
+
+.h1head{
+font-size:1em;
+margin-top:20px;
+}
 
 #blockmain1 p{
 	margin:0 auto;
@@ -851,6 +860,7 @@ font-size:1.5em;
 	
 	font-weight:500;
 	letter-spacing:1px;
+
 	
 
 
@@ -1069,11 +1079,11 @@ height:200px;
 	padding-top:80px;
 	color:black;
 }
-#cgvcorps{
-	color:black;
-	height: 3440px;
-	
-	
+#cgvcorps {
+    color: 
+    black;
+    height: 100%;
+    padding-bottom: 40px;
 }
 
 
