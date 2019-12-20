@@ -104,7 +104,7 @@
                 </div>
                 <div class="num1">1</div>
                 <div class="imgrecep">
-                    <img src="../images/reception.png" alt="radio bluetooth vintage">
+                    <img class="allimg" src="../images/reception.png" alt="radio bluetooth vintage">
                 </div>
                 <div class="recep2">Réception</div>
                 <div class="recep3">Le poste est inspecté en detail. Nous notons les défauts de placage,de vernis,les rayures. Nous choisissons alors le type de restauration que nous allons lui offrir </div>
@@ -116,7 +116,7 @@
                 </div>
                 <div class="num2">2</div>
                 <div class="imgdemo">
-                    <img src="../images/demontage.png" alt="vieux composants électronique">
+                    <img class="allimg" src="../images/demontage.png" alt="vieux composants électronique">
                 </div>
                 <div class="demo2">Démontage</div>
                 <div class="demo3">Le poste est ensuite démonté, les lampes soigneusement remisées, les composants défectueux retraités et les autres stockés.</div>
@@ -128,7 +128,7 @@
                 </div>
                 <div class="num3">3</div>
                 <div class="imgnetto">
-                    <img src="../images/nettoyage.png" alt="nettoyage d'un element">
+                    <img class="allimg" src="../images/nettoyage.png" alt="nettoyage d'un element">
                 </div>
                 <div class="netto2">Nettoyage</div>
                 <div class="netto3">Le poste est entièrement démonté. Les pièces, qui pour certaines ont plus de 80 ans, sont soigneusement nettoyées avec des produits<br>éco-responsables.</div>
@@ -140,7 +140,7 @@
                 </div>
                 <div class="num4">4</div>
                 <div class="imgrenov">
-                    <img src="../images/renovation.png" alt="poste en rénovation">
+                    <img class="allimg" src="../images/renovation.png" alt="poste en rénovation">
                 </div>
                 <div class="renov2">Rénovation</div>
                 <div class="renov3">Quand le poste est trop abîmé, le ponçage est nécessaire. Nous le vernissons ensuite dans la teinte d'origine.</div>
@@ -152,7 +152,7 @@
                 </div>
                 <div class="num5">5</div>
                 <div class="imgelec">
-                    <img src="../images/electronique.png" alt="plaque avant électronique">
+                    <img class="allimg" src="../images/electronique.png" alt="plaque avant électronique">
                 </div>
                 <div class="elec2">Electronique</div>
                 <div class="elec3">Nous procédons à l'isolation phonique puis à l'installation de la plaque qui supporte une partie de notre électronique. Nous la fixons à l'arrière pour respecter le design du poste.</div>
@@ -164,7 +164,7 @@
                 </div>
                 <div class="num6">6</div>
                 <div class="imgpret">
-                    <img src="../images/enfinpret.png" alt="le poste fini">
+                    <img class="allimg" src="../images/enfinpret.png" alt="le poste fini">
                 </div>
                 <div class="pret2">Enfin prêt</div>
                 <div class="pret3">Après de multiples tests d'écoute, de structure, le poste est prêt pour la séance photo puis il rejoindra enfin la boutique.</div>
